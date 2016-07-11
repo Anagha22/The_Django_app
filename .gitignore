@@ -1,0 +1,14 @@
+./db.sqlite3
+
+.idea/
+
+*.sqlite3
+
+db.sqlite3
+
+*.pyc
+
+migrations/
+
+/static/
+
